@@ -14,3 +14,6 @@ This is a repo for the geo dev mentorship program
 | 7 | Python |
 | 8 | Python Django |
 | 9 | 2nd Project | 
+
+Project
+[Snotel Sites](file:///tmp/qgis2web/qgis2web_2022_10_26-13_30_36_635246/index.html#7/43.453/-117.021)
